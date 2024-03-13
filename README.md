@@ -1,3 +1,2 @@
 # Personal Site
 
-## About Scrimba
